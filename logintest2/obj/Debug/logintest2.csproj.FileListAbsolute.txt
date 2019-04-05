@@ -1,0 +1,5 @@
+D:\code\logintest2\logintest2\bin\logintest2.dll.config
+D:\code\logintest2\logintest2\bin\logintest2.dll
+D:\code\logintest2\logintest2\bin\logintest2.pdb
+D:\code\logintest2\logintest2\obj\Debug\logintest2.dll
+D:\code\logintest2\logintest2\obj\Debug\logintest2.pdb
